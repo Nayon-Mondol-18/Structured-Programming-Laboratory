@@ -1,4 +1,5 @@
 //*******************************************************************
+//** Title : Paths with essential nodes.
 //** Author : Nayon Mondol, Undergrduate student, Khulna University.
 //** N.B.: This code works only for those trees which don't have any
 //** node having more than 10 adjacent nodes.
